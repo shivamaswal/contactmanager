@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/contactmanager/static/css/main.3235f9f9.chunk.css",
+    "main.js": "/contactmanager/static/js/main.9adfa544.chunk.js",
+    "main.js.map": "/contactmanager/static/js/main.9adfa544.chunk.js.map",
+    "runtime-main.js": "/contactmanager/static/js/runtime-main.46ec23c3.js",
+    "runtime-main.js.map": "/contactmanager/static/js/runtime-main.46ec23c3.js.map",
+    "static/js/2.4ac672ee.chunk.js": "/contactmanager/static/js/2.4ac672ee.chunk.js",
+    "static/js/2.4ac672ee.chunk.js.map": "/contactmanager/static/js/2.4ac672ee.chunk.js.map",
+    "static/js/3.e9c2b139.chunk.js": "/contactmanager/static/js/3.e9c2b139.chunk.js",
+    "static/js/3.e9c2b139.chunk.js.map": "/contactmanager/static/js/3.e9c2b139.chunk.js.map",
+    "index.html": "/contactmanager/index.html",
+    "static/css/main.3235f9f9.chunk.css.map": "/contactmanager/static/css/main.3235f9f9.chunk.css.map",
+    "static/js/2.4ac672ee.chunk.js.LICENSE.txt": "/contactmanager/static/js/2.4ac672ee.chunk.js.LICENSE.txt",
+    "static/media/cheems.dd94f678.jpg": "/contactmanager/static/media/cheems.dd94f678.jpg",
+    "static/media/cheems2.60da9a64.jpg": "/contactmanager/static/media/cheems2.60da9a64.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46ec23c3.js",
+    "static/js/2.4ac672ee.chunk.js",
+    "static/css/main.3235f9f9.chunk.css",
+    "static/js/main.9adfa544.chunk.js"
+  ]
+}
